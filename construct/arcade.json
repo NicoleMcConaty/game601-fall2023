@@ -1,0 +1,33 @@
+{
+	"name": "Garden Gentry",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "m6i3827b4x1",
+	"viewport-width": 1600,
+	"viewport-height": 1000,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r368.2",
+	"ife": false,
+	"used-plugins": [
+		"Camera3D",
+		"Browser",
+		"Keyboard",
+		"Mouse",
+		"Shape3D",
+		"Sprite",
+		"TiledBg",
+		"Audio",
+		"Date",
+		"Text",
+		"Touch"
+	],
+	"used-behaviors": [
+		"solid",
+		"custom"
+	]
+}
